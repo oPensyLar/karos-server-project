@@ -1,6 +1,6 @@
 # Axeso5 Karos-server-project
 
-Contains TCP server send payloads to Karos client
+Contains TCP server send payloads to Karos client (based on kissnet lib)
 
 Original payloads captures from original server saved on:
 
